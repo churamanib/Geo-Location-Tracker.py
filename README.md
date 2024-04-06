@@ -145,8 +145,9 @@ chmod +x install.sh && ./install.sh
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-https://github.com/churamanib/Geo-Location-Tracker.py.git
-cd Th3inspector
+git clone https://github.com/churamanib/Geo-Location-Tracker.py.git
+cd Th3
+inspector
 chmod +x install.sh && ./install.sh
 ```
 
