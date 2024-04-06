@@ -17,11 +17,6 @@
 <img src="https://i.imgur.com/77MVBFF.jpg" width="400" height="156"></img>
 <hr>
 
-<h2>Video</h2>
-<a href="https://youtu.be/ZvsIbhRPSrI"><img src="https://i.imgur.com/ytHi4WB.jpg" style="max-width:100%;"></a>
-
-<h2>Usage</h2>
-
 <table>
 <thead>
 <tr>
